@@ -167,7 +167,7 @@ The SM-T561 has 1.5GB of RAM and a 2015-era processor. LineageOS runs, but it's 
 3. Reboot
 
 ### Use a lightweight browser
-Chrome works but is heavy. For light browsing, **Firefox** (installable from Play Store) uses less RAM and leaves more headroom for the rest of the system.
+Chrome works but is heavy. For light browsing, **Firefox** (installable from Play Store o throught apk)  uses less RAM and leaves more headroom for the rest of the system.
 
 ### About swap/zRAM
 Swap on physical storage (microSD or internal) is **not recommended** — it wears out flash memory quickly and is often slower than just having less RAM. zRAM (RAM compression) may already be active in LineageOS by default and is the safer option if you want to stretch available memory.
