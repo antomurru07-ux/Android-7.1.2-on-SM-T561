@@ -47,8 +47,6 @@ The Samsung Galaxy Tab E (SM-T561) ships with Android 4.4.4 KitKat. Google dropp
 | LineageOS 14.1 for SM-T561 | xdaforums.com — search "LineageOS 14.1 SM-T561" |
 | GApps pico | opengapps.org → ARM → 7.1 → pico |
 
-Those files are the one that i included so either pick those up or look them for yourself
-
 > **Why Odin 3.13.1?** Newer Odin versions can be unstable with older Samsung devices. 3.13.1 is the most reliable choice for the T561.
 
 > **Why GApps pico?** The nano variant throws Error 20 on this device. Pico is the lightest variant that works reliably.
